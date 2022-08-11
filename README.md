@@ -1,1 +1,1 @@
-My first project on Hexlet
+My first repo on Hexlet
